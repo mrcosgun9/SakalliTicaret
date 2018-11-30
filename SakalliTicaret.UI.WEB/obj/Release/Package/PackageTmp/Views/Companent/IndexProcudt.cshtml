@@ -1,0 +1,51 @@
+﻿@model IEnumerable<SakalliTicaret.Core.Model.Entity.Product>
+
+<div class="section-title">
+    <h2>Featured Product</h2>
+    <span class="xt-title-bg"></span>
+</div>
+<div class="xt-each-feature">
+    @foreach (var item in Model)
+    {
+        <a href="#">
+    <div class="col-md-4 col-sm-4">
+        <div class="xt-feature">
+            <div class="product-img">
+                <img src="@item.ImageUrl" alt="" class="img-responsive">
+                @*<span class="product-tag xt-uppercase">sale!</span>*@
+            </div>
+            <div class="product-info">
+                <div class="product-title">
+                    <span class="category xt-uppercase">@item.Name</span>
+             
+                </div>
+                <div class="price-tag pull-right">
+                    @*<span class="old-price"><del>@item.Price ₺</del></span>*@
+                    <span class="new-price xt-semibold">@item.Price ₺</span>
+                </div>
+                <div class="xt-featured-caption">
+                    <div class="product-title">
+                        <span class="category xt-uppercase">@item.Name</span>
+                        <span class="name xt-semibold">Red Color</span>
+                    </div>
+                    <div class="price-tag pull-right">
+                        @*<span class="old-price"><del>@item.Price ₺</del></span>*@
+                        <span class="new-price xt-semibold">@item.Price ₺</span>
+                    </div>
+                    <div class="add-cart">
+                        <a href="" class="btn btn-fill">Sepete Ekle</a>
+                        @*<ul class="reaction">
+                                <li><a href=""><i class="fa fa-search"></i></a></li>
+                                <li><a href=""><i class="fa fa-heart-o"></i></a></li>
+                                <li><a href=""><i class="fa fa-bar-chart-o"></i></a></li>
+                            </ul>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </a>
+    }
+    
+
+</div>

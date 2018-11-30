@@ -1,0 +1,10 @@
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\SakalliTicaret.Core.Model.dll.config
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\SakalliTicaret.Core.Model.dll
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\SakalliTicaret.Core.Model.pdb
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\obj\Debug\SakalliTicaret.Core.Model.csprojResolveAssemblyReference.cache
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\obj\Debug\SakalliTicaret.Core.Model.dll
+C:\Users\Mrcosgun\Desktop\SakalliTicaret.UI.WEB\SakalliTicaret.Core.Model\obj\Debug\SakalliTicaret.Core.Model.pdb
